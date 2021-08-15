@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.6cbdcc3f.chunk.css",
-    "main.js": "/static/js/main.86b73624.chunk.js",
-    "main.js.map": "/static/js/main.86b73624.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.792d0af9.js",
-    "runtime-main.js.map": "/static/js/runtime-main.792d0af9.js.map",
-    "static/js/2.ccddf096.chunk.js": "/static/js/2.ccddf096.chunk.js",
-    "static/js/2.ccddf096.chunk.js.map": "/static/js/2.ccddf096.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.6cbdcc3f.chunk.css.map": "/static/css/main.6cbdcc3f.chunk.css.map",
-    "static/js/2.ccddf096.chunk.js.LICENSE.txt": "/static/js/2.ccddf096.chunk.js.LICENSE.txt",
-    "static/media/logo.b2e5a01e.svg": "/static/media/logo.b2e5a01e.svg"
+    "main.css": "/redux-essentials-example/static/css/main.6cbdcc3f.chunk.css",
+    "main.js": "/redux-essentials-example/static/js/main.86b73624.chunk.js",
+    "main.js.map": "/redux-essentials-example/static/js/main.86b73624.chunk.js.map",
+    "runtime-main.js": "/redux-essentials-example/static/js/runtime-main.487ae25a.js",
+    "runtime-main.js.map": "/redux-essentials-example/static/js/runtime-main.487ae25a.js.map",
+    "static/js/2.ccddf096.chunk.js": "/redux-essentials-example/static/js/2.ccddf096.chunk.js",
+    "static/js/2.ccddf096.chunk.js.map": "/redux-essentials-example/static/js/2.ccddf096.chunk.js.map",
+    "index.html": "/redux-essentials-example/index.html",
+    "static/css/main.6cbdcc3f.chunk.css.map": "/redux-essentials-example/static/css/main.6cbdcc3f.chunk.css.map",
+    "static/js/2.ccddf096.chunk.js.LICENSE.txt": "/redux-essentials-example/static/js/2.ccddf096.chunk.js.LICENSE.txt",
+    "static/media/logo.b2e5a01e.svg": "/redux-essentials-example/static/media/logo.b2e5a01e.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.792d0af9.js",
+    "static/js/runtime-main.487ae25a.js",
     "static/js/2.ccddf096.chunk.js",
     "static/css/main.6cbdcc3f.chunk.css",
     "static/js/main.86b73624.chunk.js"
